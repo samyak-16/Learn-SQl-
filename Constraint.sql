@@ -14,5 +14,5 @@ ALTER TABLE users DROP INDEX name_4;
 -- PRMIARY KEY , UNIQUE --> Table Level Constraint 
 -- NOT NULL --> Column Level Constraint 
 -- So, we need to re write NOT NULL when modifying column even being a constraint  
-
+show databases ;
 
