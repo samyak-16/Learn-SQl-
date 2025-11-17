@@ -1,4 +1,7 @@
 ALTER TABLE users ADD COLUMN referred_by_id INT ; 
+show databases ; 
+
+use starterSql ; 
 
 SELECT * FROM USERS ; 
 
